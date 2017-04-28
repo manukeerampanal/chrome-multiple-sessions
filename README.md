@@ -1,6 +1,6 @@
-# New Chrome Session
+# Chrome Multiple Sessions Support
 
-New Chrome Session (formerly the New Chrome Session browser extension) launches Google Chrome with a completely clean 
+Chrome Multiple Sessions (formerly the New Chrome Session browser extension) launches Google Chrome with a completely clean 
 history, settings, bookmarks, etc.  This is useful for testing websites with a clear cache.  It can also be used for 
 logging into websites with several accounts simultaneously, as the different instances of Chrome do not share cookie 
 data.
@@ -32,3 +32,5 @@ Read the LICENSE file.
 
 ## Feedback
 Please e-mail feedback to [brad@audiopump.co](mailto:brad@audiopump.co).
+
+Cloned from : https://bitbucket.org/bradisbell/new-chrome-session
